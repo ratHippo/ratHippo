@@ -4,6 +4,8 @@
   -keyboards
   -gamedev
   -FOSS in general
+## my website
+ [rathippo.sh](http://rathippo.sh]
 ## you can also find me on:
  [itch.io](https://rathippo.itch.io)
 <!---
