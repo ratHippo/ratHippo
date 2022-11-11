@@ -5,9 +5,10 @@
   -gamedev
   -FOSS in general
 ## my website
- [rathippo.sh](https://rathippo.sh)
+ <a rel = "me" href = "https://rathippo.sh">rathippo.sh<a>
 ## you can also find me on:
- [itch.io](https://rathippo.itch.io)
+ <a rel = "me" href = "https://rathippo.itch.io">itch.io<a>
+ <a rel = "me" href = "https://toot.community/@rathippo">mastodon<a>
 <!---
 ratHippo/ratHippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
